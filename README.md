@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im dying inside :DDDDDD
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@3233315357780/30-nites-of-code)  
+  ![@3233315357780 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=3233315357780)
